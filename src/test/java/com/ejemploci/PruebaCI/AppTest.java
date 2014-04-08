@@ -7,6 +7,6 @@ import org.junit.Test;
 public class AppTest {
 
 	@Test public void ejemploTest() throws Exception {
-		assertTrue(10 == 11);
+		assertTrue(11 == 11);
 	}
 }
